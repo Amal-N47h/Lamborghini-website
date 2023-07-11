@@ -15,9 +15,6 @@ body{
 ul{
     list-style: none;
 }
-.head-pic>img{
-    background: linear-gradient(white)
-}
 .material-symbols-outlined, li{
     display: inline;
     margin-right: 10px;
